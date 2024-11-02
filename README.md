@@ -24,11 +24,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimasaghi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450" height="180"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="450" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nimasaghi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" width="400"/>
 </div>
 
 
