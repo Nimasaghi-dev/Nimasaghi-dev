@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, WELCOME TO MY GITHUB ACCOUNT
+# WELCOME TO MY GITHUB ACCOUNT
 
 ✨ **Fullstack Web Developer** | Building efficient and scalable web applications with a passion for clean code.
 
