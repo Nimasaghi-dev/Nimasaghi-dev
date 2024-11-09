@@ -36,8 +36,5 @@
 <a href="https://linkedin.com/in/nima-saghikalhori-3090b8244/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
 
 </div>
