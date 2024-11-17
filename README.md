@@ -23,10 +23,10 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimasaghi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" width="400"/>
-</div> 
+| <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nimasaghi-dev's github stats" /></a> | <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 
 
 ---
