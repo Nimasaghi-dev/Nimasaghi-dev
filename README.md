@@ -20,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git/GitHub](https://img.shields.io/badge/-Git/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CI/CD (GitHub Actions)](<https://img.shields.io/badge/-CI/CD_(GitHub_Actions)-2088FF?style=flat&logo=githubactions&logoColor=white>)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ---
