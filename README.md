@@ -23,19 +23,16 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ---
-
 ### :wrench: Technologies to Learn :
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
 
 | <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nimasaghi-dev's github stats" /></a> | <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-
 
 ---
 
