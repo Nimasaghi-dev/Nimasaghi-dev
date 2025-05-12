@@ -25,7 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-5A66F1?style=flat&logoColor=white)
-
+![Agile Methodologies](https://img.shields.io/badge/-Agile_Methodologies-0052CC?logo=jira&logoColor=white&style=flat)
 
 
 ---
