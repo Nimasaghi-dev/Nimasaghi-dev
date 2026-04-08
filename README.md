@@ -23,9 +23,10 @@ I'm a Fullstack Web Developer with a strong focus on the frontend. I care about 
 
 ## Featured Project
 
-### 🍕 NOMNOM — Full-Stack Food Ordering App
+### 🍕 [NOMNOM — Full-Stack Food Ordering App](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
 
-> A complete MERN-stack food ordering platform with real-time order tracking, JWT authentication, and multi-step checkout.
+> A complete MERN-stack food ordering platform with real-time order tracking, JWT authentication, and multi-step checkout.  
+> 🔗 **[github.com/Nimasaghi-dev/NOMNOM-Food-app](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)**
 
 | | |
 |---|---|
@@ -36,8 +37,6 @@ I'm a Fullstack Web Developer with a strong focus on the frontend. I care about 
 | **Tracking** | Animated countdown timer + Google Maps embed |
 | **Testing** | Jest, React Testing Library, Cypress E2E |
 | **CI** | GitHub Actions (lint + code-style check) |
-
-[![NOMNOM Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
 
 ---
 
