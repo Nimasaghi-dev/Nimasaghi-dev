@@ -26,7 +26,6 @@ I'm a Fullstack Web Developer with a strong focus on the frontend. I care about 
 ### 🍕 [NOMNOM — Full-Stack Food Ordering App](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
 
 > A complete MERN-stack food ordering platform with real-time order tracking, JWT authentication, and multi-step checkout.  
-> 🔗 **[github.com/Nimasaghi-dev/NOMNOM-Food-app](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)**
 
 | | |
 |---|---|
