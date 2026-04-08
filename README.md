@@ -1,55 +1,89 @@
 <div align="center">
 
-# WELCOME TO MY GITHUB ACCOUNT
+# Nima Saghi — Frontend Engineer
 
-✨ **Fullstack Web Developer** | Building efficient and scalable web applications with a passion for clean code.
+**Building scalable, well-structured web applications with clean, maintainable code.**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nima-saghikalhori-3090b8244/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev)
 
-### 🛠️ Technologies & Languages
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-4AB197?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-336790?style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git/GitHub](https://img.shields.io/badge/-Git/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-5A66F1?style=flat&logoColor=white)
-![Agile Methodologies](https://img.shields.io/badge/-Agile_Methodologies-0052CC?logo=jira&logoColor=white&style=flat)
-
-
----
-### :wrench: Technologies to Learn :
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## About Me
 
-| <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nimasaghi-dev's github stats" /></a> | <a href="https://github.com/Nimasaghi-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+I'm a Fullstack Web Developer with a strong focus on the frontend. I care about component architecture, performance, and writing code that other engineers can read and extend. My work spans the full MERN stack — from RESTful API design to responsive, accessible UIs.
+
+- 🔭 Currently focused on **React**, **Next.js**, and **TypeScript**
+- 🌱 Expanding into **Python**
+- 💬 Ask me about **component architecture**, **state management**, or **API design**
 
 ---
 
-### 🌐 Connect with Me
+## Featured Project
 
-<a href="https://linkedin.com/in/nima-saghikalhori-3090b8244/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+### 🍕 NOMNOM — Full-Stack Food Ordering App
 
+> A complete MERN-stack food ordering platform with real-time order tracking, JWT authentication, and multi-step checkout.
+
+| | |
+|---|---|
+| **Stack** | React 19, Node.js, Express 4, MongoDB Atlas |
+| **Auth** | JWT-based signup / login with HTTP-only cookies |
+| **Cart** | React Context + localStorage persistence |
+| **Checkout** | Multi-step flow with live credit card 3D flip preview |
+| **Tracking** | Animated countdown timer + Google Maps embed |
+| **Testing** | Jest, React Testing Library, Cypress E2E |
+| **CI** | GitHub Actions (lint + code-style check) |
+
+[![NOMNOM Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
+
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336790?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+### Learning Next
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+| Stats | Top Languages |
+|:---:|:---:|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/Nimasaghi-dev) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nimasaghi-dev) |
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaboration and interesting projects — feel free to reach out.</sub>
 </div>
