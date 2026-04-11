@@ -4,7 +4,7 @@
 
 **Building scalable, well-structured web applications with clean, maintainable code.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-saghi-web-developer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nima-saghikalhori-3090b8244/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev)
 
 </div>
@@ -26,6 +26,7 @@ I'm a Fullstack Web Developer with a strong focus on the frontend. I care about 
 ### 🍕 [NOMNOM — Full-Stack Food Ordering App](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
 
 > A complete MERN-stack food ordering platform with real-time order tracking, JWT authentication, and multi-step checkout.  
+> 🔗 **[github.com/Nimasaghi-dev/NOMNOM-Food-app](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)**
 
 | | |
 |---|---|
@@ -73,11 +74,9 @@ I'm a Fullstack Web Developer with a strong focus on the frontend. I care about 
 ## GitHub Stats
 
 <div align="center">
-
-| Stats | Top Languages |
-|:---:|:---:|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/Nimasaghi-dev) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nimasaghi-dev) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 ---
