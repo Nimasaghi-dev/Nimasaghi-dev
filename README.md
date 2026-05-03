@@ -19,8 +19,8 @@ My work spans the full MERN stack — from RESTful API design to responsive, acc
 
 ```ts
 const nima = {
-  focus:        ["React", "Next.js", "TypeScript"],
-  expanding:    ["Python"],
+  focus:        ["React", "Next.js", "TypeScript", "Python"],
+  expanding:    ["Backend"],
   ask_me_about: ["Component Architecture", "State Management", "API Design"],
   currently:    "Open to interesting opportunities and collaborations",
 };
@@ -69,6 +69,7 @@ const nima = {
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tooling
 
@@ -79,7 +80,7 @@ const nima = {
 
 ### Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
