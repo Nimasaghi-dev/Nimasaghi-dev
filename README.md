@@ -12,14 +12,12 @@
 
 ## About Me
 
-I'm a **Fullstack Web Developer** with a strong frontend focus. I care about component architecture, performance, and writing code that scales and other engineers can actually read.
-
-My work spans the full MERN stack — from RESTful API design to responsive, accessible UIs.
+Frontend Engineer with a strong focus on component architecture, UI performance, and scalable design systems. I work across the full MERN stack — from RESTful API design to responsive, accessible UIs.
 
 ```ts
 const nima = {
-  focus:        ["React", "Next.js", "TypeScript", "Python"],
-  expanding:    ["Backend"],
+  focus:        ["React", "Next.js", "TypeScript"],
+  expanding:    ["Python", "gRPC", "Backend Systems"],
   ask_me_about: ["Component Architecture", "State Management", "API Design"],
   currently:    "Open to interesting opportunities and collaborations",
 };
@@ -27,13 +25,43 @@ const nima = {
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### 🌐 Mavisoft — Corporate Website
+
+> Production-grade corporate site for a AI company — designed and built end-to-end with cinematic motion design, scroll-triggered animations, and a scalable component architecture.
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mavisoft.netlify.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev/Mavisoft)
+
+<br/>
+
+<a href="https://mavisoft.netlify.app" target="_blank">
+  <img
+    src="https://api.microlink.io/?url=https%3A%2F%2Fmavisoft.netlify.app&screenshot=true&meta=false&embed=screenshot.url"
+    alt="Mavisoft Live Preview"
+    width="100%"
+  />
+</a>
+
+<br/>
+
+| Layer | Details |
+|---|---|
+| **Framework** | Next.js 15 (App Router), React 19 |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS v4, Framer Motion |
+| **Features** | Scroll animations, industry carousel, modal content system, contact form |
+| **Email** | Resend API |
+| **Tooling** | ESLint, Prettier |
+
+---
 
 ### 🍕 NOMNOM — Full-Stack Food Ordering App
 
-> A complete MERN-stack food ordering platform built with production-grade architecture.
+> Complete MERN-stack ordering platform with JWT authentication, multi-step checkout, live order tracking, and a full testing suite.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nimasaghi-dev/NOMNOM-Food-app)
 
 | Layer | Details |
 |---|---|
@@ -69,7 +97,6 @@ const nima = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tooling
@@ -88,11 +115,10 @@ const nima = {
 
 ## GitHub Stats
 
-
 <div align="center">
-  <img src="https://YOUR_VERCEL_DEPLOYMENT.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimasaghi-dev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://YOUR_VERCEL_DEPLOYMENT.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimasaghi-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=true" height="170" alt="Top Languages" />
 </div>
 
 ---
